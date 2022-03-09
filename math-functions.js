@@ -12,3 +12,7 @@ function modulus (a, b){
   let c = a % b
   return c
 }
+function multiply(a,b){
+  let c = a*b;
+  return c;
+}
